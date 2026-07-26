@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: es-ES
-  baseUrl: hardrive9000.github.io/insyne-engineering
+  baseUrl: lab.insyne.click
   ignorePatterns:
     - private
     - Templates

@@ -20,3 +20,6 @@ MINIMUM ACTION ENGINEERED
 - [[Módulo Adaptador I2C Display LCD PCF8574]]
 - [[Módulo Relé de 4 Canales]]
 - [[VS1838B]]
+
+## Herramientas
+- [[esptool]]
