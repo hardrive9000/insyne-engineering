@@ -105,7 +105,7 @@ esptool -p /dev/ttyUSB0 -b 115200 write-flash -fm dout 0x00000 firmware.bin
 ```
 
 ```bash
-esptool -p /dev/ttyUSB0 -b 115200 write-flash -fm dout 0x1000 bootloader.bin 0x8000 partition-table.bin 0x10000 firmware.bin
+esptool -p /dev/ttyUSB0 -b 115200 write-flash -fm dout 0x1000 bootloader.bin 0x8000 partition-table.bin 0x10000 app.bin
 ```
 
 > **Nota**
